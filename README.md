@@ -61,7 +61,7 @@ Contact Developer on [Discord](https://discord.com/invite/ZDP9PNrX).
 </br>
     OR
     -->
-[`TELEGRAM BOT`](https://t.me/queen_elisa_pair_bot)
+[`QR/PAIRING CODE`](https://gpt-qr-code.onrender.com)
 
 ## Deploy.
  [![nima](https://img.shields.io/badge/elisa_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://heroku.com/deploy?template=https://github.com/darkmakerofc/QueenElisa)
